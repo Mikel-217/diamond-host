@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "8igZyT5o316RfOREP/28RRRooxxAixhZlTbxPOY6a6s=",
+  "Source": "diamond_hostv1",
+  "BasePath": "_content/diamond_hostv1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "diamond_hostv1\\wwwroot",
+      "Source": "diamond_hostv1",
+      "ContentRoot": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\wwwroot\\",
+      "BasePath": "_content/diamond_hostv1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\diamond_hostv1.styles.css",
+      "SourceId": "diamond_hostv1",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/diamond_hostv1",
+      "RelativePath": "diamond_hostv1.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\diamond_hostv1.styles.css"
+    },
+    {
+      "Identity": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\diamond_hostv1.bundle.scp.css",
+      "SourceId": "diamond_hostv1",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/diamond_hostv1",
+      "RelativePath": "diamond_hostv1.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\diamond_hostv1.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\wwwroot\\app.css",
+      "SourceId": "diamond_hostv1",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\wwwroot\\",
+      "BasePath": "_content/diamond_hostv1",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

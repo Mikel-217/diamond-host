@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\diamond_hostv1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\diamond_hostv1.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\Kunze\\source\\repos\\diamond_hostv1\\diamond_hostv1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.diamond_hostv1.props",
+      "PackagePath": "build\\diamond_hostv1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.diamond_hostv1.props",
+      "PackagePath": "buildMultiTargeting\\diamond_hostv1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.diamond_hostv1.props",
+      "PackagePath": "buildTransitive\\diamond_hostv1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.diamond_hostv1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
