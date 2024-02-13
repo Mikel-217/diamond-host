@@ -26,3 +26,4 @@ c:\Users\Kunze\source\repos\diamond_hostv1\diamond_hostv1\obj\Debug\net8.0\refin
 c:\Users\Kunze\source\repos\diamond_hostv1\diamond_hostv1\obj\Debug\net8.0\diamond_hostv1.pdb
 c:\Users\Kunze\source\repos\diamond_hostv1\diamond_hostv1\obj\Debug\net8.0\diamond_hostv1.genruntimeconfig.cache
 c:\Users\Kunze\source\repos\diamond_hostv1\diamond_hostv1\obj\Debug\net8.0\ref\diamond_hostv1.dll
+c:\Users\Kunze\source\repos\diamond_hostv1\diamond_hostv1\obj\Debug\net8.0\diamond_hostv1.sourcelink.json
